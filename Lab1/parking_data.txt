@@ -1,0 +1,10 @@
+// New and previous users with their cars are recorded here as a mini database. 
+// The history of their stay as a fact in the parking lot. 
+// And it will be updated every time this program is launched.
+
+BMW AC022;Nazar
+KIA AD004;Kolya Medved
+BMW AB001;Nazar
+Renault BK007;Maksym
+Honda LS002;Honda LS002
+Prius BK003;Maks
