@@ -1,0 +1,16 @@
+THIS is a short instruction on HOW this PROGRAM WORKS. It has two modes: bad script and correct.
+If we talk about the first option, it works by default even when there are some errors (without synchronization)
+and the other second option works accordingly, performing tasks according to the option that was set.
+
+
+First, a list of cars is shown so that you can interact with them and the parking lot.
+By default, the Bad synchronization version is first and then the normal (stable) one.
+But you can choose the bad one right away.
+The user can interact with the parking lot or properly - everything is always great, and if something is entered incorrectly, then an error occurs due to the cycle and cases.
+If briefly and concisely about how this program works, that's all.
+The main thing at the beginning is that the user and the car are legalized so that you can register your car correctly.
+There is also a list of cars.
+
+
+In general, the program works correctly and you can also add something if necessary (say, improve its syntax and interaction) of course !
+Thank you !
